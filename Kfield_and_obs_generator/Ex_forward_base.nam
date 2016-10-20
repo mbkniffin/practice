@@ -1,0 +1,24 @@
+LIST            3 output.dat
+DIS            95 discret.dat
+BAS6            1 bas6.dat
+ZONE           93 zone.dat
+MULT           94 multiple.dat
+LPF            31 lpf6.dat
+RCH            11 rech6.dat
+WEL            12 wel6.dat
+PCG            23 pcg2.dat
+# gmg            23 gmg.dat
+OC             22 oc.dat
+# OBS            40 obs.dat
+HOB            41 hob.dat
+# ADJ            42 adj.dat
+
+# DATA           43 Lump_par_sens.dat
+
+# DATA           44 Dist_par_sens.xdu 
+
+DATA           37 k-true.dat
+DATA           38 head.dat
+DATA           39 head_well.dat
+# DATA           48 pcg_adj.dat
+# DATA           48 gmg_adj.dat

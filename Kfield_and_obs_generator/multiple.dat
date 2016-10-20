@@ -1,0 +1,7 @@
+# Multiplier file for MODFLOW-2000, UNC1NLI1 Report Example
+ 2 
+HK1
+        37         1(FREE)                      -1  4. HK Multiplier array for layer 1
+VK1
+         0         1(20G14.0)                   -1  4. VK Multiplier array for layer 1
+

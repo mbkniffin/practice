@@ -1,0 +1,10 @@
+# Layer-Property Flow file for MODFLOW-2000, UNC1NLI1 Report Example
+         0      999.         1
+ 0
+ 0
+ 1
+ 0
+ 0
+HK_1 HK   1  1 1 HK1 ZHK1 1 
+         2                                              HK of layer 1 print code
+         0         1(20G14.0)                    1  12. VK of layer 1
